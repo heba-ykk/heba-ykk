@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi I'm Heba! 💕
 
-<!--
-**heba-ykk/heba-ykk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+I'm a highschooler thats interested in persuing the tech and computer science field! I've been coding for about 1 1/2 years, still exploring different languages, and a beginner!
 
-Here are some ideas to get you started:
+-------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages:
+💻 Javascript
+
+💻 Java (learning)
+
+💻 HTML (very new & learning)
+
+-------------------------
+
+
+### Interests:
+🌺 expanding my knowledge on coding
+
+🌺 dystopian books
+
+🌺 dystopian shows/movies
+
+🌺 diamond art painting
+
+🌺 baking
+
+-------------------------
+
+### Projects:
+👩‍💻 Pet Generator game (work in progress)...
+
+👩‍💻 to be continued...
+
+-------------------------
+
+Thank you!! 💕
+
